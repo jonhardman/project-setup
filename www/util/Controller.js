@@ -1,0 +1,1 @@
+jQuery.sap.declare("linklaters.com.customexpensesapp.util.Controller");sap.ui.core.mvc.Controller.extend("linklaters.com.customexpensesapp.util.Controller", {	getRouter : function () {		return sap.ui.core.UIComponent.getRouterFor(this);	}});
